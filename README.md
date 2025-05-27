@@ -21,7 +21,7 @@ Then you will need to apply some of the skills you acquired to complete the cour
 | 9:00-10:30  | Lecture: Introduction to molecular phylogenetics         | Lecture: Introduction to model-based phylogenetics | Lecture: Properties of DNA data and assessing robustness of hypotheses |
 | 10:30-12:00 | Tutorial 1; Short lecture on trees and alignments        | Tutorials 3 and 4                                  | Tutorial 6                                                             |
 | 12:00-13:00 | Lunch                                                    | Lunch                                              | Lunch                                                                  |
-| 13:00-14:00 | Tutorial 1 (cont.)                                       | Lecture: Bayesian phylogenetic inference           | Tutorial 7                                                     |
+| 13:00-14:00 | Tutorial 1 (cont.)                                       | Lecture: ML and Bayesian phylogenetic inference           | Tutorial 7                                                     |
 | 14:00-16:00 | Tutorial 2                                               | Tutorial 5; Explanation of course assignment       | Course assignment                                         |
 
 
