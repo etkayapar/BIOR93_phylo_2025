@@ -81,7 +81,7 @@ Open the file `.treefile` retrieved from IQTREE2 and check the support values. Y
 
 The tree is rooted by default on the first taxon in your dataset or on the longest branch in the dataset. In our case we should reroot the tree on the branch leading to *Hyaena and mongooses* (which is our outgroup). In FigTree, click on the branch leading to *Hyaena and mongooses* to select it, and then click on the "Reroot" button in FigTree.
 
-
+You also need to make the branch support visible. This can be done by going to the tab Branch Labels. Under the Display option, choose "labels". This will make the branch support visible. First number is the SH-aLRT and the second number is UFBoot value.
 
 **Questions**
 
